@@ -501,9 +501,9 @@ def first_method(reg1, reg2):
         if finalList[i] not in uniquelist:
             uniquelist.append(finalList[i])
     return uniquelist
-#Введите первое регулярное выражение
+
 #b(a|b)ab*ca
-#Введите второе регулярное выражение
+
 #ba+bacca
 
 def second_method(reg):
